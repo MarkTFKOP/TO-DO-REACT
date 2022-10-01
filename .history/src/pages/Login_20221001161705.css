@@ -1,0 +1,11 @@
+button:disabled,
+button[disabled] {
+  background-color: grey;
+  cursor: not-allowed;
+  color: rgb(39, 36, 36);
+}
+button {
+  background-color: greenyellow;
+  color: rgba(110, 119, 128, 0.738);
+  cursor: pointer;
+}
